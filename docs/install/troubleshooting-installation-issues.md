@@ -125,7 +125,7 @@ If you contact Microsoft Support, you might need to provide these setup logs by 
 
 To collect the logs:
 
-1. [Download the tool](https://www.microsoft.com/download/details.aspx?id=12493).
+1. [Download Log collect tool](https://www.microsoft.com/download/details.aspx?id=12493).
 2. Open an administrative command prompt.
 3. Run `Collect.exe` from the directory where you saved the tool.
 4. Find the resulting `vslogs.zip` file in your `%TEMP%` directory, for example, `C:\Users\YourName\AppData\Local\Temp\vslogs.zip`.
